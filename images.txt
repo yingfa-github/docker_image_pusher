@@ -1,1 +1,1 @@
-xiaoyaliu/alist:hostmode
+xiaoyaliu/alist:laster
