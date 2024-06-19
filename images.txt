@@ -2,3 +2,6 @@ xiaoyaliu/alist:latest
 xiaoyaliu/glue:latest
 containrrr/watchtower:latest
 haroldli/xiaoya-tvbox
+ghcr.io/monlor/xiaoya-metadata
+io/monlor/xiaoya-embyserver
+ghcr.io/monlor/xiaoya-jellyfin
