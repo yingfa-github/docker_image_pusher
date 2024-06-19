@@ -1,1 +1,1 @@
-xiaoyaliu/alist:releases
+xiaoyaliu/alist
