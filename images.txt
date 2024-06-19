@@ -1,3 +1,4 @@
 xiaoyaliu/alist:latest
 xiaoyaliu/glue:latest
 containrrr/watchtower:latest
+haroldli/xiaoya-tvbox
