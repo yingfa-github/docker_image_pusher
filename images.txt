@@ -1,7 +1,1 @@
-xiaoyaliu/alist
-haroldli/xiaoya-tvbox
-ghcr.io/monlor/xiaoya-alist
-ghcr.io/monlor/xiaoya-metadata
-ghcr.io/monlor/xiaoya-embyserver
-ghcr.io/monlor/xiaoya-jellyfin
-moelin/1panel:latest
+ailg/alist:latest
