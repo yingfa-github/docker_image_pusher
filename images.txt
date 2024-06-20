@@ -1,7 +1,2 @@
-xiaoyaliu/alist:latest
-xiaoyaliu/glue:latest
-containrrr/watchtower:latest
-haroldli/xiaoya-tvbox
-ghcr.io/monlor/xiaoya-metadata
-ghcr.io/monlor/xiaoya-embyserver
-ghcr.io/monlor/xiaoya-jellyfin
+ailg/alist
+alist/ggbond
