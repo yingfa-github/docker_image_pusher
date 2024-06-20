@@ -1,5 +1,5 @@
 emby/embyserver:4.8.0.56
 nyanmisaka/jellyfin:latest
-ailg/ggbond:lates
+ailg/ggbond:latest
 xiaoyaliu/alist:latest
 ddsderek/xiaoya-emd:latest
